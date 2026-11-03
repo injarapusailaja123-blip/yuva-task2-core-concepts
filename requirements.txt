@@ -1,0 +1,2 @@
+# Core Python Concepts - No external dependencies required
+# Python version: 3.11+
