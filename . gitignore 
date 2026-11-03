@@ -1,14 +1,11 @@
-# Python
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
+*.pyc
+*.pyo
 venv/
 .venv/
 env/
 .env
 *.log
 student_data.txt
-.DS_Store
 .vscode/
-.idea/
+.DS_Store
